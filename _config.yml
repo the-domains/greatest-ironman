@@ -1,0 +1,14 @@
+layout_spectrum: 1
+color:
+  saturation: 0.8818325
+  brandStrength: 0.287401
+  lightness: 0.9682297
+  brandColors:
+    - '#D1CFCE'
+    - '#9B9A9A'
+    - '#38383A'
+    - '#FFFEFF'
+    - '#D7804A'
+  rhythmicContrast: 0.9316993
+typography_spectrum: 0.421147
+name: Greatest Ironman
